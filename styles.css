@@ -1,5 +1,5 @@
-header{background-color: green;
-color:white; 
+header{background-color: white;
+color:green; 
 text-align: center;}
 footer{background-color: pink; 
 color:black; 
@@ -20,7 +20,7 @@ ul {list-style-type: square}
 dt {font-weight: bold;
 text-decoration: underline}
 .fh {text-align: center;
-color: white;
+color: green;
 font-family:century gothic;}
 #contact {text-transform: capitalize;
 line-height: 1.8;}
@@ -30,3 +30,4 @@ margin-left: auto;
 margin-right: auto;}
 h3{color:blue;
 text-decoration:underline;}
+img {float:right;}
